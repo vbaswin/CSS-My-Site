@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'Comic';
     src: url('/fonts/Comic_neue/ComicNeue-Bold.ttf');
+    font-style: normal;
+    font-weight: 100;
 }
 /************************** TAG selectors *****************************/
  
